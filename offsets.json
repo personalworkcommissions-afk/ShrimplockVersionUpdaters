@@ -1,9 +1,9 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-f5a60436d48947d3",
+  "Roblox Version": "version-e7d81637d42c4b23",
   "Dumper Version": "2.1.7",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "19:36 27/08/2026",
+  "Dumped At": "17:43 02/09/2026",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 388,
   "Offsets": {
@@ -11,21 +11,21 @@
       "Pointer": 0
     },
     "TaskScheduler": {
-      "Pointer": 144985448,
+      "Pointer": 145479464,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 137240872,
-      "Dimensions": 2784,
-      "ViewMatrix": 384,
-      "RenderView": 3072,
-      "FakeDataModel": 2752
+      "Pointer": 137696264,
+      "Dimensions": 2832,
+      "ViewMatrix": 432,
+      "RenderView": 3120,
+      "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 147496136,
+      "Pointer": 147990632,
       "RealDataModel": 504
     },
     "MouseService": {
@@ -83,20 +83,20 @@
       "PlaceId": 400,
       "GameId": 392,
       "CreatorId": 384,
-      "GameLoaded": 1488,
+      "GameLoaded": 1496,
       "JobId": 280,
       "Workspace": 344,
       "ScriptContext": 1088,
       "PlaceVersion": 428,
-      "ServerIP": 1464,
+      "ServerIP": 1472,
       "ToRenderView1": 456,
       "ToRenderView2": 8,
       "ToRenderView3": 40,
-      "PrimitiveCount": 1048
+      "PrimitiveCount": 1056
     },
     "RunService": {
-      "HeartbeatTask": 952,
-      "HeartbeatFPS": 244
+      "HeartbeatTask": 224,
+      "HeartbeatFPS": 192
     },
     "RenderJob": {
       "RenderView": 472,
@@ -104,30 +104,30 @@
       "RealDataModel": 496
     },
     "Workspace": {
-      "World": 872,
-      "ReadOnlyGravity": 2504,
-      "DistributedGameTime": 1208,
-      "CurrentCamera": 1176
+      "World": 1040,
+      "ReadOnlyGravity": 2544,
+      "DistributedGameTime": 1240,
+      "CurrentCamera": 1208
     },
     "World": {
-      "Gravity": 436,
-      "worldStepsPerSec": 0,
-      "FallenPartsDestroyHeight": 0,
-      "AirProperties": 0,
-      "Primitives": 0
+      "Gravity": 556,
+      "worldStepsPerSec": 1832,
+      "FallenPartsDestroyHeight": 544,
+      "AirProperties": 576,
+      "Primitives": 688
     },
     "AirProperties": {
-      "AirDensity": 0,
-      "GlobalWind": 0
+      "AirDensity": 24,
+      "GlobalWind": 60
     },
     "Terrain": {
-      "GrassLength": 488,
-      "WaterReflectance": 496,
-      "WaterTransparency": 500,
-      "WaterWaveSize": 504,
-      "WaterWaveSpeed": 508,
-      "WaterColor": 472,
-      "MaterialColors": 1200
+      "GrassLength": 496,
+      "WaterReflectance": 504,
+      "WaterTransparency": 508,
+      "WaterWaveSize": 512,
+      "WaterWaveSpeed": 516,
+      "WaterColor": 480,
+      "MaterialColors": 1208
     },
     "MaterialColors": {
       "Asphalt": 48,
@@ -163,11 +163,11 @@
       "Looped": 317
     },
     "SpawnLocation": {
-      "AllowTeamChangeOnTouch": 488,
-      "Enabled": 489,
-      "Neutral": 490,
-      "ForcefieldDuration": 480,
-      "TeamColor": 484
+      "AllowTeamChangeOnTouch": 61,
+      "Enabled": 497,
+      "Neutral": 498,
+      "ForcefieldDuration": 488,
+      "TeamColor": 492
     },
     "SurfaceAppearance": {
       "AlphaMode": 496,
@@ -272,12 +272,12 @@
       "PlatformStatePointer": 1933762072
     },
     "Seat": {
-      "Occupant": 528
+      "Occupant": 536
     },
     "VehicleSeat": {
       "MaxSpeed": 552,
       "SteerFloat": 556,
-      "ThrottleFloat": 560,
+      "ThrottleFloat": 392,
       "Torque": 564,
       "TurnSpeed": 568
     },
@@ -291,7 +291,7 @@
       "Enabled": 1209,
       "CanBeDropped": 1208,
       "ManualActivationOnly": 1210,
-      "RequiresHandle": 1211
+      "RequiresHandle": 469
     },
     "Clothing": {
       "Template": 256,
@@ -317,7 +317,7 @@
       "Primitive": 392,
       "Transparency": 304,
       "Color3": 424,
-      "Shape": 441,
+      "Shape": 440,
       "Massless": 311,
       "CastShadow": 309,
       "Locked": 310,
@@ -381,7 +381,7 @@
       "BackgroundColor3": 1344,
       "BorderColor3": 1356,
       "TextColor3": 3744,
-      "LayoutOrder": 1408,
+      "LayoutOrder": 1404,
       "ZIndex": 1444,
       "BackgroundTransparency": 1356,
       "Rotation": 232
