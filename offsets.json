@@ -116,6 +116,9 @@
       "AirProperties": 576,
       "Primitives": 688
     },
+    "WorldRoot": {
+    "RaycastDescriptorRva": 110764216
+    },
     "AirProperties": {
       "AirDensity": 24,
       "GlobalWind": 60
