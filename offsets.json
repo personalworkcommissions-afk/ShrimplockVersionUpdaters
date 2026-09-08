@@ -94,6 +94,14 @@
       "ToRenderView3": 40,
       "PrimitiveCount": 1056
     },
+      "GuiService": {
+      "GuiNavigationEnabled": "0x108",
+      "MenuIsOpen": "0x109",
+      "TopbarInset": "0x45D",
+      "TouchControlsEnabled": "0x10A",
+      "ViewportDisplaySize": "0x104",
+      "ViewportSizeInMM": "0xF8"
+    },
     "RunService": {
       "HeartbeatTask": 224,
       "HeartbeatFPS": 192
