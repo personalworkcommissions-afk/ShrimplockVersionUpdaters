@@ -1,15 +1,13 @@
 {
   "Source": "https://offsets.imtheo.lol",
   "Roblox Version": "version-e7d81637d42c4b23",
-  "Dumper Version": "2.1.7",
+  "Dumper Version": "2.2.2",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "17:43 02/09/2026",
+  "Dumped At": "07:05 08/09/2026",
+  "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
-  "Total Offsets": 388,
+  "Total Offsets": 392,
   "Offsets": {
-    "PlayerConfigurer": {
-      "Pointer": 0
-    },
     "TaskScheduler": {
       "Pointer": 145479464,
       "JobStart": 200,
@@ -28,11 +26,11 @@
       "Pointer": 147990632,
       "RealDataModel": 504
     },
-    "MouseService": {
-      "SensitivityPointer": 0,
-      "InputObject": 240,
-      "InputObject2": 256,
-      "MousePosition": 212
+    "RenderView": {
+      "LightingValid": 0,
+      "SkyValid": 0,
+      "VisualEngine": 0,
+      "DeviceD3D11": 0
     },
     "ScriptContext": {
       "RequireBypass": 0
@@ -43,11 +41,14 @@
       "Hash": 328,
       "ByteCode": 0
     },
-    "RenderView": {
-      "LightingValid": 336,
-      "SkyValid": 653,
-      "VisualEngine": 16,
-      "DeviceD3D11": 8
+    "MouseService": {
+      "SensitivityPointer": 0,
+      "InputObject": 240,
+      "InputObject2": 256,
+      "MousePosition": 212
+    },
+    "PlayerConfigurer": {
+      "Pointer": 0
     },
     "Instance": {
       "This": 8,
@@ -66,19 +67,6 @@
       "Value": 184,
       "AnimationId": 192
     },
-    "MeshContentProvider": {
-      "Cache": 240,
-      "LRUCache": 32,
-      "MeshData": 64,
-      "ToMeshData": 64,
-      "AssetID": 16
-    },
-    "MeshData": {
-      "FaceEnd": 56,
-      "FaceStart": 48,
-      "VertexEnd": 8,
-      "VertexStart": 0
-    },
     "DataModel": {
       "PlaceId": 400,
       "GameId": 392,
@@ -96,7 +84,7 @@
     },
     "RunService": {
       "HeartbeatTask": 224,
-      "HeartbeatFPS": 192
+      "HeartbeatFPS": 197
     },
     "RenderJob": {
       "RenderView": 472,
@@ -115,9 +103,6 @@
       "FallenPartsDestroyHeight": 544,
       "AirProperties": 576,
       "Primitives": 688
-    },
-    "WorldRoot": {
-    "RaycastDescriptorRva": 110764216
     },
     "AirProperties": {
       "AirDensity": 24,
@@ -162,11 +147,11 @@
       "PlaybackSpeed": 284,
       "Volume": 304,
       "SoundGroup": 232,
-      "IsPlaying": 320,
+      "IsPlaying": 0,
       "Looped": 317
     },
     "SpawnLocation": {
-      "AllowTeamChangeOnTouch": 61,
+      "AllowTeamChangeOnTouch": 496,
       "Enabled": 497,
       "Neutral": 498,
       "ForcefieldDuration": 488,
@@ -280,12 +265,12 @@
     "VehicleSeat": {
       "MaxSpeed": 552,
       "SteerFloat": 556,
-      "ThrottleFloat": 392,
+      "ThrottleFloat": 560,
       "Torque": 564,
       "TurnSpeed": 568
     },
     "StatsItem": {
-      "Value": 200
+      "Value": 3034
     },
     "Tool": {
       "Tooltip": 1128,
@@ -294,7 +279,7 @@
       "Enabled": 1209,
       "CanBeDropped": 1208,
       "ManualActivationOnly": 1210,
-      "RequiresHandle": 469
+      "RequiresHandle": 1211
     },
     "Clothing": {
       "Template": 256,
@@ -390,8 +375,8 @@
       "Rotation": 232
     },
     "GuiBase2D": {
-      "AbsoluteSize": 276,
-      "AbsolutePosition": 268,
+      "AbsoluteSize": 0,
+      "AbsolutePosition": 0,
       "AbsoluteRotation": 232
     },
     "UserInputService": {
@@ -524,7 +509,7 @@
     "LocalScript": {
       "GUID": 208,
       "Hash": 416,
-      "ByteCode": 0
+      "ByteCode": 3840
     },
     "ByteCode": {
       "Size": 32,
@@ -534,6 +519,31 @@
       "GUID": 208,
       "Hash": 416,
       "ByteCode": 0
+    },
+    "MeshContentProvider": {
+      "LRUHolder": 216
+    },
+    "LRUHolder": {
+      "MemEnforcedLRUCache": 32
+    },
+    "MemEnforcedLRUCache": {
+      "Head": 8
+    },
+    "LRUNode": {
+      "Next": 0,
+      "AssetID": 16,
+      "CachedItem": 64
+    },
+    "CachedItem": {
+      "FileMeshData": 64
+    },
+    "FileMeshData": {
+      "AABBMin": 688,
+      "AABBMax": 700,
+      "Vertices": 0,
+      "VerticesEnd": 8,
+      "Faces": 48,
+      "FacesEnd": 56
     }
   }
 }
