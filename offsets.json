@@ -1,29 +1,29 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-e7d81637d42c4b23",
-  "Dumper Version": "2.2.2",
+  "Roblox Version": "version-c5aecda2245e4fae",
+  "Dumper Version": "2.2.3",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "07:05 08/09/2026",
+  "Dumped At": "17:54 09/09/2026",
   "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 392,
   "Offsets": {
     "TaskScheduler": {
-      "Pointer": 145479464,
+      "Pointer": 146132712,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 137696264,
+      "Pointer": 138349064,
       "Dimensions": 2832,
       "ViewMatrix": 432,
       "RenderView": 3120,
       "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 147990632,
+      "Pointer": 148644440,
       "RealDataModel": 504
     },
     "RenderView": {
@@ -39,7 +39,7 @@
       "IsCoreScript": 0,
       "GUID": 208,
       "Hash": 328,
-      "ByteCode": 0
+      "ByteCode": 312
     },
     "MouseService": {
       "SensitivityPointer": 0,
@@ -84,7 +84,7 @@
     },
     "RunService": {
       "HeartbeatTask": 224,
-      "HeartbeatFPS": 197
+      "HeartbeatFPS": 192
     },
     "RenderJob": {
       "RenderView": 472,
@@ -93,7 +93,7 @@
     },
     "Workspace": {
       "World": 1040,
-      "ReadOnlyGravity": 2544,
+      "ReadOnlyGravity": 2560,
       "DistributedGameTime": 1240,
       "CurrentCamera": 1208
     },
@@ -147,7 +147,7 @@
       "PlaybackSpeed": 284,
       "Volume": 304,
       "SoundGroup": 232,
-      "IsPlaying": 0,
+      "IsPlaying": 320,
       "Looped": 317
     },
     "SpawnLocation": {
@@ -223,13 +223,13 @@
       "Health": 400,
       "MaxHealth": 424,
       "Walkspeed": 464,
-      "WalkspeedCheck": 956,
+      "WalkspeedCheck": 948,
       "JumpPower": 420,
       "JumpHeight": 416,
       "HipHeight": 404,
       "MaxSlopeAngle": 428,
       "SeatPart": 264,
-      "HumanoidRootPart": 1144,
+      "HumanoidRootPart": 1136,
       "CameraOffset": 296,
       "HealthDisplayDistance": 392,
       "NameDisplayDistance": 432,
@@ -249,11 +249,11 @@
       "RequiresNeck": 477,
       "AutoJumpEnabled": 468,
       "AutoRotate": 469,
-      "IsWalking": 2407,
+      "IsWalking": 2399,
       "MoveToPoint": 356,
       "MoveToPart": 280,
-      "WalkTimer": 1032,
-      "HumanoidState": 2240,
+      "WalkTimer": 1024,
+      "HumanoidState": 2232,
       "HumanoidStateID": 32,
       "FloorMaterial": 388,
       "TargetPoint": 332,
@@ -270,7 +270,7 @@
       "TurnSpeed": 568
     },
     "StatsItem": {
-      "Value": 3034
+      "Value": 4241
     },
     "Tool": {
       "Tooltip": 1128,
@@ -363,12 +363,12 @@
       "Position": 1296,
       "Size": 1328,
       "Visible": 1453,
-      "Image": 2440,
-      "Text": 3568,
-      "RichText": 2952,
+      "Image": 2464,
+      "Text": 3584,
+      "RichText": 2968,
       "BackgroundColor3": 1344,
       "BorderColor3": 1356,
-      "TextColor3": 3744,
+      "TextColor3": 3760,
       "LayoutOrder": 1404,
       "ZIndex": 1444,
       "BackgroundTransparency": 1356,
@@ -376,7 +376,7 @@
     },
     "GuiBase2D": {
       "AbsoluteSize": 0,
-      "AbsolutePosition": 0,
+      "AbsolutePosition": 268,
       "AbsoluteRotation": 232
     },
     "UserInputService": {
@@ -387,8 +387,8 @@
       "CapsLock": 64
     },
     "Textures": {
-      "Decal_Texture": 432,
-      "Texture_Texture": 432
+      "Decal_Texture": 480,
+      "Texture_Texture": 480
     },
     "Lighting": {
       "ClockTime": 200,
@@ -504,21 +504,21 @@
       "IsPlaying": 2648
     },
     "Animator": {
-      "ActiveAnimations": 2896
+      "ActiveAnimations": 2736
     },
     "LocalScript": {
       "GUID": 208,
       "Hash": 416,
-      "ByteCode": 3840
+      "ByteCode": 400
     },
     "ByteCode": {
-      "Size": 32,
+      "Size": 40,
       "Pointer": 16
     },
     "Script": {
       "GUID": 208,
       "Hash": 416,
-      "ByteCode": 0
+      "ByteCode": 400
     },
     "MeshContentProvider": {
       "LRUHolder": 216
@@ -532,14 +532,14 @@
     "LRUNode": {
       "Next": 0,
       "AssetID": 16,
-      "CachedItem": 64
+      "CachedItem": 56
     },
     "CachedItem": {
-      "FileMeshData": 64
+      "FileMeshData": 40
     },
     "FileMeshData": {
-      "AABBMin": 688,
-      "AABBMax": 700,
+      "AABBMin": 384,
+      "AABBMax": 396,
       "Vertices": 0,
       "VerticesEnd": 8,
       "Faces": 48,
