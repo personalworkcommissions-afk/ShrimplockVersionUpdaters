@@ -106,6 +106,7 @@
     },
     "Reflection": {
   "RaycastRVA": 111229608,
+  "RaycastDescriptorRVA": 111229608,
   "WorldRootMethodTableRVA": 110886144
 },
     "AirProperties": {
