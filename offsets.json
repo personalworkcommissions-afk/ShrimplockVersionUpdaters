@@ -105,8 +105,10 @@
       "Primitives": 688
     },
     "Reflection": {
+    "RaycastRVA": 111229608,
     "RaycastDescriptorRVA": 110886568,
-    "WorldRootMethodTableRVA": 110886144
+    "WorldRootMethodTableRVA": 110886144,
+},
     },
     "AirProperties": {
       "AirDensity": 24,
