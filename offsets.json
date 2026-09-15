@@ -1,29 +1,29 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-c5aecda2245e4fae",
-  "Dumper Version": "2.2.3",
+  "Roblox Version": "version-4310300497aa4917",
+  "Dumper Version": "2.2.4",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "17:54 09/09/2026",
+  "Dumped At": "06:24 15/09/2026",
   "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 392,
   "Offsets": {
     "TaskScheduler": {
-      "Pointer": 146132712,
+      "Pointer": 146659560,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 138349064,
+      "Pointer": 138868584,
       "Dimensions": 2832,
       "ViewMatrix": 432,
       "RenderView": 3120,
       "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 148644440,
+      "Pointer": 149171352,
       "RealDataModel": 504
     },
     "RenderView": {
@@ -68,19 +68,19 @@
       "AnimationId": 192
     },
     "DataModel": {
-      "PlaceId": 400,
-      "GameId": 392,
-      "CreatorId": 384,
-      "GameLoaded": 1496,
-      "JobId": 280,
-      "Workspace": 344,
+      "PlaceId": 408,
+      "GameId": 400,
+      "CreatorId": 392,
+      "GameLoaded": 1504,
+      "JobId": 288,
+      "Workspace": 352,
       "ScriptContext": 1088,
-      "PlaceVersion": 428,
-      "ServerIP": 1472,
-      "ToRenderView1": 456,
+      "PlaceVersion": 436,
+      "ServerIP": 1480,
+      "ToRenderView1": 464,
       "ToRenderView2": 8,
       "ToRenderView3": 40,
-      "PrimitiveCount": 1056
+      "PrimitiveCount": 1064
     },
     "RunService": {
       "HeartbeatTask": 224,
@@ -104,11 +104,6 @@
       "AirProperties": 576,
       "Primitives": 688
     },
-    "Reflection": {
-  "RaycastRVA": 111229608,
-  "RaycastDescriptorRVA": 110886568,
-  "WorldRootMethodTableRVA": 110886144
-},
     "AirProperties": {
       "AirDensity": 24,
       "GlobalWind": 60
@@ -156,7 +151,7 @@
       "Looped": 317
     },
     "SpawnLocation": {
-      "AllowTeamChangeOnTouch": 496,
+      "AllowTeamChangeOnTouch": 61,
       "Enabled": 497,
       "Neutral": 498,
       "ForcefieldDuration": 488,
@@ -249,7 +244,7 @@
       "PlatformStand": 476,
       "UseJumpPower": 480,
       "AutomaticScalingEnabled": 470,
-      "BreakJointsOnDeath": 471,
+      "BreakJointsOnDeath": 197,
       "EvaluateStateMachine": 472,
       "RequiresNeck": 477,
       "AutoJumpEnabled": 468,
@@ -275,15 +270,15 @@
       "TurnSpeed": 568
     },
     "StatsItem": {
-      "Value": 4241
+      "Value": 54890
     },
     "Tool": {
       "Tooltip": 1128,
       "TextureId": 864,
       "Grip": 1196,
-      "Enabled": 1209,
+      "Enabled": 1141,
       "CanBeDropped": 1208,
-      "ManualActivationOnly": 1210,
+      "ManualActivationOnly": 661,
       "RequiresHandle": 1211
     },
     "Clothing": {
@@ -317,15 +312,15 @@
       "Reflectance": 268
     },
     "Primitive": {
-      "Position": 236,
+      "Position": 212,
       "Validate": 6,
-      "Owner": 528,
-      "Size": 444,
-      "Rotation": 200,
-      "Flags": 438,
+      "Owner": 536,
+      "Size": 452,
+      "Rotation": 176,
+      "Flags": 446,
       "Material": 0,
-      "AssemblyLinearVelocity": 248,
-      "AssemblyAngularVelocity": 260
+      "AssemblyLinearVelocity": 224,
+      "AssemblyAngularVelocity": 236
     },
     "PrimitiveFlags": {
       "Anchored": 2,
@@ -537,10 +532,10 @@
     "LRUNode": {
       "Next": 0,
       "AssetID": 16,
-      "CachedItem": 56
+      "CachedItem": 64
     },
     "CachedItem": {
-      "FileMeshData": 40
+      "FileMeshData": 64
     },
     "FileMeshData": {
       "AABBMin": 384,
