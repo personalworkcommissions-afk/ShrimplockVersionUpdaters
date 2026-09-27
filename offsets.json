@@ -39,7 +39,7 @@
       "IsCoreScript": 0,
       "GUID": 192,
       "Hash": 848,
-      "ByteCode": 0
+      "ByteCode": 312
     },
     "MouseService": {
       "SensitivityPointer": 0,
@@ -509,7 +509,7 @@
     "LocalScript": {
       "GUID": 192,
       "Hash": 400,
-      "ByteCode": 0
+      "ByteCode": 400
     },
     "ByteCode": {
       "Size": 40,
@@ -518,7 +518,7 @@
     "Script": {
       "GUID": 192,
       "Hash": 400,
-      "ByteCode": 0
+      "ByteCode": 400
     },
     "MeshContentProvider": {
       "LRUHolder": 200
