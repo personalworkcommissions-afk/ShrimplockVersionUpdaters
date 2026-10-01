@@ -1,29 +1,29 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-2366ba214ec740ca",
+  "Roblox Version": "version-02c37bc51a384b8f",
   "Dumper Version": "2.2.4",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "06:43 22/09/2026",
+  "Dumped At": "20:12 29/09/2026",
   "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 392,
   "Offsets": {
     "TaskScheduler": {
-      "Pointer": 147378440,
+      "Pointer": 145748640,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 139575048,
+      "Pointer": 140038664,
       "Dimensions": 2832,
       "ViewMatrix": 432,
       "RenderView": 3120,
       "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 149821224,
+      "Pointer": 146098560,
       "RealDataModel": 504
     },
     "RenderView": {
@@ -39,7 +39,7 @@
       "IsCoreScript": 0,
       "GUID": 192,
       "Hash": 848,
-      "ByteCode": 312
+      "ByteCode": 0
     },
     "MouseService": {
       "SensitivityPointer": 0,
@@ -84,7 +84,7 @@
     },
     "RunService": {
       "HeartbeatTask": 224,
-      "HeartbeatFPS": 192
+      "HeartbeatFPS": 200
     },
     "RenderJob": {
       "RenderView": 472,
@@ -93,13 +93,13 @@
     },
     "Workspace": {
       "World": 1024,
-      "ReadOnlyGravity": 2544,
+      "ReadOnlyGravity": 2488,
       "DistributedGameTime": 1224,
       "CurrentCamera": 1192
     },
     "World": {
       "Gravity": 556,
-      "worldStepsPerSec": 1832,
+      "worldStepsPerSec": 1864,
       "FallenPartsDestroyHeight": 544,
       "AirProperties": 576,
       "Primitives": 688
@@ -214,7 +214,7 @@
       "MinZoomDistance": 860,
       "MaxZoomDistance": 856,
       "CameraMode": 864,
-      "Mouse": 4608
+      "Mouse": 4616
     },
     "Team": {
       "BrickColor": 168
@@ -270,7 +270,7 @@
       "TurnSpeed": 552
     },
     "StatsItem": {
-      "Value": 3968
+      "Value": 4697
     },
     "Tool": {
       "Tooltip": 1112,
@@ -370,7 +370,7 @@
       "BorderColor3": 1340,
       "TextColor3": 3744,
       "LayoutOrder": 1388,
-      "ZIndex": 439,
+      "ZIndex": 1428,
       "BackgroundTransparency": 1340,
       "Rotation": 216
     },
@@ -501,7 +501,7 @@
       "Speed": 196,
       "TimePosition": 200,
       "Looped": 213,
-      "IsPlaying": 1314
+      "IsPlaying": 2632
     },
     "Animator": {
       "ActiveAnimations": 2688
@@ -509,7 +509,7 @@
     "LocalScript": {
       "GUID": 192,
       "Hash": 400,
-      "ByteCode": 400
+      "ByteCode": 0
     },
     "ByteCode": {
       "Size": 40,
@@ -518,7 +518,7 @@
     "Script": {
       "GUID": 192,
       "Hash": 400,
-      "ByteCode": 400
+      "ByteCode": 0
     },
     "MeshContentProvider": {
       "LRUHolder": 200
@@ -532,10 +532,10 @@
     "LRUNode": {
       "Next": 0,
       "AssetID": 16,
-      "CachedItem": 56
+      "CachedItem": 64
     },
     "CachedItem": {
-      "FileMeshData": 40
+      "FileMeshData": 64
     },
     "FileMeshData": {
       "AABBMin": 384,
