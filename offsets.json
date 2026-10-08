@@ -1,29 +1,29 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-02c37bc51a384b8f",
+  "Roblox Version": "version-cec3ad5889b447cf",
   "Dumper Version": "2.2.4",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "20:12 29/09/2026",
+  "Dumped At": "07:23 06/10/2026",
   "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 392,
   "Offsets": {
     "TaskScheduler": {
-      "Pointer": 145748640,
+      "Pointer": 146247976,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 140038664,
+      "Pointer": 140865088,
       "Dimensions": 2832,
       "ViewMatrix": 432,
       "RenderView": 3120,
       "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 146098560,
+      "Pointer": 146603344,
       "RealDataModel": 504
     },
     "RenderView": {
@@ -39,7 +39,7 @@
       "IsCoreScript": 0,
       "GUID": 192,
       "Hash": 848,
-      "ByteCode": 321
+      "ByteCode": 0
     },
     "MouseService": {
       "SensitivityPointer": 0,
@@ -83,26 +83,26 @@
       "PrimitiveCount": 1048
     },
     "RunService": {
-      "HeartbeatTask": 224,
-      "HeartbeatFPS": 200
+      "HeartbeatTask": 25400,
+      "HeartbeatFPS": 225
     },
     "RenderJob": {
-      "RenderView": 472,
+      "RenderView": 480,
       "FakeDataModel": 56,
       "RealDataModel": 496
     },
     "Workspace": {
       "World": 1024,
-      "ReadOnlyGravity": 2488,
+      "ReadOnlyGravity": 2504,
       "DistributedGameTime": 1224,
       "CurrentCamera": 1192
     },
     "World": {
-      "Gravity": 556,
-      "worldStepsPerSec": 1864,
-      "FallenPartsDestroyHeight": 544,
-      "AirProperties": 576,
-      "Primitives": 688
+      "Gravity": 548,
+      "worldStepsPerSec": 1856,
+      "FallenPartsDestroyHeight": 536,
+      "AirProperties": 568,
+      "Primitives": 712
     },
     "AirProperties": {
       "AirDensity": 24,
@@ -151,7 +151,7 @@
       "Looped": 301
     },
     "SpawnLocation": {
-      "AllowTeamChangeOnTouch": 61,
+      "AllowTeamChangeOnTouch": 480,
       "Enabled": 481,
       "Neutral": 482,
       "ForcefieldDuration": 472,
@@ -229,7 +229,7 @@
       "HipHeight": 388,
       "MaxSlopeAngle": 412,
       "SeatPart": 248,
-      "HumanoidRootPart": 1112,
+      "HumanoidRootPart": 1120,
       "CameraOffset": 280,
       "HealthDisplayDistance": 376,
       "NameDisplayDistance": 416,
@@ -249,11 +249,11 @@
       "RequiresNeck": 461,
       "AutoJumpEnabled": 452,
       "AutoRotate": 453,
-      "IsWalking": 2591,
+      "IsWalking": 2599,
       "MoveToPoint": 340,
       "MoveToPart": 264,
       "WalkTimer": 0,
-      "HumanoidState": 2208,
+      "HumanoidState": 2216,
       "HumanoidStateID": 32,
       "FloorMaterial": 372,
       "TargetPoint": 316,
@@ -270,7 +270,7 @@
       "TurnSpeed": 552
     },
     "StatsItem": {
-      "Value": 4697
+      "Value": 1504
     },
     "Tool": {
       "Tooltip": 1112,
@@ -296,10 +296,10 @@
       "Rotation": 200,
       "CameraSubject": 184,
       "FieldOfView": 304,
-      "ImagePlaneDepth": 708,
+      "ImagePlaneDepth": 724,
       "CameraType": 296,
-      "Viewport": 636,
-      "ViewportSize": 700
+      "Viewport": 652,
+      "ViewportSize": 716
     },
     "BasePart": {
       "Primitive": 376,
@@ -363,12 +363,12 @@
       "Position": 1280,
       "Size": 1312,
       "Visible": 1437,
-      "Image": 2448,
-      "Text": 3568,
-      "RichText": 2952,
+      "Image": 2472,
+      "Text": 3592,
+      "RichText": 2976,
       "BackgroundColor3": 1328,
       "BorderColor3": 1340,
-      "TextColor3": 3744,
+      "TextColor3": 3768,
       "LayoutOrder": 1388,
       "ZIndex": 1428,
       "BackgroundTransparency": 1340,
@@ -509,7 +509,7 @@
     "LocalScript": {
       "GUID": 192,
       "Hash": 400,
-      "ByteCode": 321
+      "ByteCode": 0
     },
     "ByteCode": {
       "Size": 40,
@@ -518,7 +518,7 @@
     "Script": {
       "GUID": 192,
       "Hash": 400,
-      "ByteCode": 321
+      "ByteCode": 0
     },
     "MeshContentProvider": {
       "LRUHolder": 200
