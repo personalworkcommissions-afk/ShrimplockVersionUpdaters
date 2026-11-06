@@ -544,6 +544,21 @@
       "VerticesEnd": 8,
       "Faces": 48,
       "FacesEnd": 56
+    },
+    "Raycast": {
+            "Ray": 0,
+            "RaycastParams": 0,
+            "RaycastResult": 0,
+            "WorldRoot": 0,
+            "RaycastMethodReference": 14764069,
+            "RaycastParamsReference": 30333319,
+            "RaycastResultReference": 30333327,
+            "WorkspaceClassDescriptor": 24,
+            "WorldRootClassBase": 432
+        },
+        "Ray": {
+            "Origin": 0,
+            "Direction": 12
     }
   }
 }
