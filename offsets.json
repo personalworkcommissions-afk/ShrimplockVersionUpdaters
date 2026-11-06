@@ -1,29 +1,29 @@
 {
   "Source": "https://offsets.imtheo.lol",
-  "Roblox Version": "version-5a21b87bbc2641cf",
+  "Roblox Version": "version-f0ea5da9412f4e35",
   "Dumper Version": "2.2.4",
   "Dumped With": "RbxDumperV2",
-  "Dumped At": "22:19 26/10/2026",
+  "Dumped At": "18:23 04/11/2026",
   "Source Code": "https://git.imtheo.lol/theo/RbxDumperV2",
   "Discord": "https://offsets.imtheo.lol/discord",
   "Total Offsets": 392,
   "Offsets": {
     "TaskScheduler": {
-      "Pointer": 147445400,
+      "Pointer": 149215160,
       "JobStart": 200,
       "JobEnd": 208,
       "JobName": 24,
       "MaxFPS": 176
     },
     "VisualEngine": {
-      "Pointer": 142189080,
+      "Pointer": 143928888,
       "Dimensions": 2832,
       "ViewMatrix": 432,
-      "RenderView": 3136,
+      "RenderView": 3152,
       "FakeDataModel": 2800
     },
     "FakeDataModel": {
-      "Pointer": 147875328,
+      "Pointer": 149645664,
       "RealDataModel": 504
     },
     "RenderView": {
@@ -83,8 +83,8 @@
       "PrimitiveCount": 1040
     },
     "RunService": {
-      "HeartbeatTask": 38504,
-      "HeartbeatFPS": 244
+      "HeartbeatTask": 84864,
+      "HeartbeatFPS": 242
     },
     "RenderJob": {
       "RenderView": 480,
@@ -93,13 +93,13 @@
     },
     "Workspace": {
       "World": 1016,
-      "ReadOnlyGravity": 2496,
+      "ReadOnlyGravity": 2512,
       "DistributedGameTime": 1216,
       "CurrentCamera": 1184
     },
     "World": {
       "Gravity": 536,
-      "worldStepsPerSec": 2136,
+      "worldStepsPerSec": 2152,
       "FallenPartsDestroyHeight": 524,
       "AirProperties": 560,
       "Primitives": 672
@@ -142,16 +142,16 @@
     },
     "Sound": {
       "SoundId": 176,
-      "RollOffMaxDistance": 264,
-      "RollOffMinDistance": 268,
-      "PlaybackSpeed": 260,
-      "Volume": 280,
+      "RollOffMaxDistance": 272,
+      "RollOffMinDistance": 276,
+      "PlaybackSpeed": 268,
+      "Volume": 288,
       "SoundGroup": 208,
-      "IsPlaying": 296,
-      "Looped": 293
+      "IsPlaying": 304,
+      "Looped": 301
     },
     "SpawnLocation": {
-      "AllowTeamChangeOnTouch": 472,
+      "AllowTeamChangeOnTouch": 61,
       "Enabled": 473,
       "Neutral": 474,
       "ForcefieldDuration": 464,
@@ -243,7 +243,7 @@
       "Sit": 467,
       "PlatformStand": 466,
       "UseJumpPower": 470,
-      "AutomaticScalingEnabled": 458,
+      "AutomaticScalingEnabled": 149,
       "BreakJointsOnDeath": 460,
       "EvaluateStateMachine": 461,
       "RequiresNeck": 467,
@@ -270,14 +270,14 @@
       "TurnSpeed": 544
     },
     "StatsItem": {
-      "Value": 82474
+      "Value": 12512
     },
     "Tool": {
       "Tooltip": 1104,
       "TextureId": 840,
       "Grip": 1172,
-      "Enabled": 1185,
-      "CanBeDropped": 1184,
+      "Enabled": 149,
+      "CanBeDropped": 869,
       "ManualActivationOnly": 1186,
       "RequiresHandle": 1187
     },
@@ -359,7 +359,7 @@
       "Icon": 176
     },
     "GuiObject": {
-      "ScreenGui_Enabled": 1164,
+      "ScreenGui_Enabled": 1168,
       "Position": 1240,
       "Size": 1272,
       "Visible": 1397,
@@ -532,10 +532,10 @@
     "LRUNode": {
       "Next": 0,
       "AssetID": 16,
-      "CachedItem": 64
+      "CachedItem": 56
     },
     "CachedItem": {
-      "FileMeshData": 64
+      "FileMeshData": 40
     },
     "FileMeshData": {
       "AABBMin": 384,
