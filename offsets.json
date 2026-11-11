@@ -106,7 +106,7 @@
       "FallenPartsDestroyHeight": 524,
       "AirProperties": 560,
       "Primitives": 672,
-      "RaycastDescriptorRva": 0x07004708
+      "RaycastDescriptorRva": 117459720
     },
     "AirProperties": {
       "AirDensity": 24,
