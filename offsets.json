@@ -105,7 +105,8 @@
       "worldStepsPerSec": 2152,
       "FallenPartsDestroyHeight": 524,
       "AirProperties": 560,
-      "Primitives": 672
+      "Primitives": 672,
+      "RaycastDescriptorRva": 0x07004708
     },
     "AirProperties": {
       "AirDensity": 24,
